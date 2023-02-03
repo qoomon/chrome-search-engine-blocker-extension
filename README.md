@@ -1,4 +1,4 @@
-# chrome-search-engine-blocker
+# chrome-search-engine-blocker-extension
 This extension prevents Chrome from adding new search engines by opensearch links and search auto detection.
 
 chrome://settings/searchEngines
